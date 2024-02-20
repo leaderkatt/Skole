@@ -1,0 +1,8 @@
+{
+    "shoppinglist" : [
+        {"vare" : "melk", "type" : "lettmelk"},
+        {"vare" : "ost", "type" : "Norvegia"},
+        {"vare" : "honning", "type" : "norsk honning"}
+
+    ]
+}
